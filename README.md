@@ -23,13 +23,19 @@ bun cli.js
 export ANTHROPIC_API_KEY=your_api_key_here
 ```
 
-非交互模式也支持，适合快速冒烟：
+非交互模式也支持，适合快速测试：
 
 ```bash
 bun cli.js -p "你好"
 ```
 
 ---
+
+## 复现测试
+
+![image-20260401154712407](D:\20260311准备面试\0324淘天面试准备\claw-code\README\image-20260401154712407.png)
+
+![image-20260401154607283](D:\20260311准备面试\0324淘天面试准备\claw-code\README\image-20260401154607283.png)
 
 ## 这份仓库是什么
 
